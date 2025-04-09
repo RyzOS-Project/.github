@@ -1,7 +1,7 @@
 ![RyzOS](https://i.postimg.cc/rFCwVRf1/ryzos-banner.png)
 
 ### Welcome!
-RyzOS Project is a custom Android ROM based on **LineageOS**, We focus on performance, a pleasant experience, and making sure everything looks stable.
+RyzOS Project is a custom Android ROM based on **LineageOS**, We focus on performance, a good experience, and making sure everything looks stable.
 
 ### Credits!
 - [LineageOS](https://github.com/LineageOS)
