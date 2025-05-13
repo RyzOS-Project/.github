@@ -2,6 +2,10 @@
 
 ### Welcome!
 RyzOS Project is a custom Android ROM based on **LineageOS**, We focus on performance, a good experience, and making sure everything looks stable.
+We started RyzOS not because we wanted to compete with other systems. We got tired. Tired of systems that were too complex, too heavy, too noisy.
+
+### Codename: Anxiety
+RyzOS started out as a place of restlessness. We wanted a system that was light, quiet, and gave the user space—not one that weighed them down.
 
 ### Credits!
 - [LineageOS](https://github.com/LineageOS)
@@ -10,6 +14,7 @@ RyzOS Project is a custom Android ROM based on **LineageOS**, We focus on perfor
 - [ProjectMatrixx](https://github.com/ProjectMatrixx)
 - [AnxionAOSP](https://github.com/AxionAOSP)
 - [RisingOS-Revived](https://github.com/RisingOS-Revived)
+- [HorizonDroid](https://github.com/HorizonV2)
 - [Derpfest](https://github.com/DerpFest-AOSP)
 - [OrionOS](https://github.com/OrionOS-Project)
 
