@@ -1,7 +1,8 @@
 ![RyzOS](https://i.postimg.cc/rFCwVRf1/ryzos-banner.png)
 
 ### Welcome!
-RyzOS Project is a custom Android ROM based on **LineageOS** & **Evolution X**
+RyzOS Project is a custom Android ROM based on **LineageOS** & **Evolution X** .
+
 We started RyzOS not because we wanted to compete with other systems. We got tired. Tired of systems that were too complex, too heavy, too noisy.
 
 ### Codename: Anxiety
