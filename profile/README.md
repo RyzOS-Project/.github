@@ -8,6 +8,8 @@ We started RyzOS not because we wanted to compete with other systems. We got tir
 ### Codename: Anxiety
 RyzOS started out as a place of restlessness. We wanted a system that was light, quiet, and gave the user space—not one that weighed them down.
 
+### Build Status: **Working on Progress** 🏗️
+
 ### Credits!
 - [LineageOS](https://github.com/LineageOS)
 - [Evolution X](https://github.com/Evolution-X)
